@@ -1,8 +1,13 @@
-Olympics Data Analysis
-This project, Olympics Data Analysis, provides a comprehensive examination of Olympic Games data extracted from Wikipedia up to 2016, covering both Summer and Winter Olympics. The analysis includes:
-Medals by Gender: A breakdown of medal distribution by gender.
-Gender Ratios by Year: Insights into the male and female participant ratios over the years.
-Top 10 Countries by Medals: Ranking of countries based on total medals won.
-Top Olympic Medalists: Identification of top athletes by total medals.
-Total Participating Countries: The count of countries participating in each Olympic event.
-Total Sports: The number of sports included in the Olympics.
+🏅 Data Collection and Preparation: Discover how to gather and clean data from various sources for analysis.
+
+📊 Exploratory Data Analysis (EDA): Learn how to explore and understand the data, identifying key trends and patterns.
+
+📈 Dashboard Design: Follow step-by-step instructions to design an intuitive and visually appealing Power BI dashboard.
+
+🔗 Data Modeling and Relationships: Understand the importance of data modeling and how to establish relationships between different datasets.
+
+🎨 Custom Visuals and Features: Explore how to use custom visuals and advanced features in Power BI to enhance your dashboard.
+
+📅 Real-Time Data Integration: Learn techniques for integrating real-time data and keeping your dashboard up-to-date.
+
+📈 Insights and Storytelling: Gain insights on how to effectively communicate your findings and tell a compelling data story.
